@@ -1,0 +1,1 @@
+The project is about creating an automation on doing ETL data engineering process. The process started from extracting the data from csv file, and then transform the data into a clean and better shape data, and then load it into database and create the report automatically. The data that is used in this project is loan_2014 data. The data is about loan record from a bank.
